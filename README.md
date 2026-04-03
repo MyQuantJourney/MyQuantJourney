@@ -1,6 +1,6 @@
 ## Welcome to MyQuantJourney
 
-Here you can find the code for the projects/tutorials I write about over at MyQuantJourney.com
+Here you can find the code for the projects/tutorials I write about over at www.MyQuantJourney.com
 <!--
 **MyQuantJourney/MyQuantJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
