@@ -1,1 +1,1 @@
-Here you can see the full python code for the Live Data Regime Detector. For the post, you can find it at: 
+Here you can see the full python code for the Live Data Regime Detector. For the post, you can find it @ [www.MyQuantJourney.com](https://www.myquantjourney.com/building-a-live-regime-detector-dashboard-using-hidden-markov-chains/)
