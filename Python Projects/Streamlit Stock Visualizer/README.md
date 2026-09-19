@@ -1,6 +1,6 @@
 # Stock Dashboard
 
-Code referenced from my post here:
+Code referenced from my post here: https://www.myquantjourney.com/stock-ticker-viewer-using-pythons-streamlit-package/
 
 ## Project Structure
 
