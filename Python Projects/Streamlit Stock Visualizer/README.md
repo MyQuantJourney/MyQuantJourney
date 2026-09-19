@@ -1,5 +1,7 @@
 # Stock Dashboard
 
+Code referenced from my post here:
+
 ## Project Structure
 
 ```
